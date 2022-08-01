@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962623827766",
+    "project_id": "chatspotctsdk",
+    "storage_bucket": "chatspotctsdk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962623827766:android:594b27bb576628f993cd97",
+        "android_client_info": {
+          "package_name": "com.example.chatspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962623827766-ffq4sh2404ps1agn2m3p7v4dalr94st8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPdpoK_ySDANXmaAB8A1yQwhf7pJX17Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962623827766-ffq4sh2404ps1agn2m3p7v4dalr94st8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ChatSpot</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="donothaveaccount">Do not have an account? Sign up</string>
+    <string name="alreadyhaveaccount">Already have an account? Sign in</string>
+    <string name="su_button">Sign Up</string>
+    <string name="si_button">Sign In</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="signupphone">Sign Up with Phone</string>
+    <string name="signinphone">Sign In with Phone</string>
+    <string name="settings">Settings</string>
+    <string name="groupchat">Group Chat</string>
+    <string name="logout">Logout</string>
+    <string name="blank_chats_fragment">Chats Fragment</string>
+    <string name="blank_status_fragment">Status Fragment</string>
+    <string name="blank_calls_fragment">Calls Fragment</string>
+    <string name="sample_user">Sample User</string>
+    <string name="sample_last_message">No Messages Yet</string>
+</resources>
