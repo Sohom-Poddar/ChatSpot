@@ -62,11 +62,16 @@ public class SignUpActivity extends AppCompatActivity {
                                         mDatabase.child(key).setValue(user,new DatabaseReference.CompletionListener() {
                                             @Override
                                             public void onComplete(@Nullable DatabaseError error, @NonNull DatabaseReference ref) {
-                                                Log.e("TAG",error.toString());
-                                                Log.e("TAG",error.getMessage());
-                                                Log.e("TAG",error.getDetails());
-                                                //Log.e("TAG",error.toException());
-                                                //Log.e("TAG",error.getCode());
+                                                if(error!=null){
+                                                    Log.e("TAG",error.toString());
+                                                    Log.e("TAG",error.getMessage());
+                                                    Log.e("TAG",error.getDetails());
+                                                    //Log.e("TAG",error.toException());
+                                                    //Log.e("TAG",error.getCode());
+                                                }
+                                                else {
+                                                    Log.e("TAG", "onComplete: error is null" );
+                                                }
                                             }
                                         });
 
