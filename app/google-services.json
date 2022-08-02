@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "962623827766",
-    "project_id": "chatspotctsdk",
-    "storage_bucket": "chatspotctsdk.appspot.com"
+    "project_number": "475213230069",
+    "firebase_url": "https://chatspotct123-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatspotct123",
+    "storage_bucket": "chatspotct123.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:962623827766:android:594b27bb576628f993cd97",
+        "mobilesdk_app_id": "1:475213230069:android:556efe33ce7e034bf1fabc",
         "android_client_info": {
           "package_name": "com.example.chatspot"
         }
       },
       "oauth_client": [
         {
-          "client_id": "962623827766-ffq4sh2404ps1agn2m3p7v4dalr94st8.apps.googleusercontent.com",
+          "client_id": "475213230069-0qlbomgissv3q38hai6edhaptnlb2t76.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBPdpoK_ySDANXmaAB8A1yQwhf7pJX17Fo"
+          "current_key": "AIzaSyCtGYGCwLT7zj2NnFOxR4CuHEFXd9Ztq8I"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "962623827766-ffq4sh2404ps1agn2m3p7v4dalr94st8.apps.googleusercontent.com",
+              "client_id": "475213230069-0qlbomgissv3q38hai6edhaptnlb2t76.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
